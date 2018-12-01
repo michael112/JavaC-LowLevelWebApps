@@ -1,0 +1,11 @@
+J:\my projects\SAMPLES TESTS\NETCoreLowLevelWebApp\tcp-port-listener\obj\Debug\netcoreapp2.1\tcp-port-listener.csprojAssemblyReference.cache
+J:\my projects\SAMPLES TESTS\NETCoreLowLevelWebApp\tcp-port-listener\obj\Debug\netcoreapp2.1\tcp-port-listener.csproj.CoreCompileInputs.cache
+J:\my projects\SAMPLES TESTS\NETCoreLowLevelWebApp\tcp-port-listener\obj\Debug\netcoreapp2.1\tcp-port-listener.AssemblyInfoInputs.cache
+J:\my projects\SAMPLES TESTS\NETCoreLowLevelWebApp\tcp-port-listener\obj\Debug\netcoreapp2.1\tcp-port-listener.AssemblyInfo.cs
+J:\my projects\SAMPLES TESTS\NETCoreLowLevelWebApp\tcp-port-listener\bin\Debug\netcoreapp2.1\tcp-port-listener.deps.json
+J:\my projects\SAMPLES TESTS\NETCoreLowLevelWebApp\tcp-port-listener\bin\Debug\netcoreapp2.1\tcp-port-listener.runtimeconfig.json
+J:\my projects\SAMPLES TESTS\NETCoreLowLevelWebApp\tcp-port-listener\bin\Debug\netcoreapp2.1\tcp-port-listener.runtimeconfig.dev.json
+J:\my projects\SAMPLES TESTS\NETCoreLowLevelWebApp\tcp-port-listener\bin\Debug\netcoreapp2.1\tcp-port-listener.dll
+J:\my projects\SAMPLES TESTS\NETCoreLowLevelWebApp\tcp-port-listener\bin\Debug\netcoreapp2.1\tcp-port-listener.pdb
+J:\my projects\SAMPLES TESTS\NETCoreLowLevelWebApp\tcp-port-listener\obj\Debug\netcoreapp2.1\tcp-port-listener.dll
+J:\my projects\SAMPLES TESTS\NETCoreLowLevelWebApp\tcp-port-listener\obj\Debug\netcoreapp2.1\tcp-port-listener.pdb
